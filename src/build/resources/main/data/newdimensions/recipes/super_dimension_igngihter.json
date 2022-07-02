@@ -1,14 +1,28 @@
 {
   "group": "newdimensions",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
       "item": "minecraft:warped_stem"
     },
-    {
+    "3": {
+      "item": "minecraft:warped_stem"
+    },
+    "4": {
+      "item": "minecraft:warped_stem"
+    },
+    "5": {
+      "item": "minecraft:warped_stem"
+    },
+    "7": {
       "item": "minecraft:warped_stem"
     }
-  ],
+  },
   "result": {
     "item": "newdimensions:super_dimension",
     "count": 1

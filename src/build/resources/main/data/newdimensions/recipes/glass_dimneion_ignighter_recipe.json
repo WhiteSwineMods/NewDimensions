@@ -1,0 +1,13 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "item": "newdimensions:glass_dimension",
+    "count": 1
+  }
+}

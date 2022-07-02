@@ -20,6 +20,8 @@ net/mcreator/newdimensions/item/Acasia_WoodSwordItem.java
  net.mcreator.newdimensions.item.Acasia_WoodSwordItem
  net.mcreator.newdimensions.item.Acasia_WoodSwordItem$1
  net.mcreator.newdimensions.item.Acasia_WoodSwordItem$2
+net/mcreator/newdimensions/item/GlassDimensionItem.java
+ net.mcreator.newdimensions.item.GlassDimensionItem
 net/mcreator/newdimensions/world/dimension/StoneDimensionDimension.java
  net.mcreator.newdimensions.world.dimension.StoneDimensionDimension
  net.mcreator.newdimensions.world.dimension.StoneDimensionDimension$1
@@ -382,6 +384,13 @@ net/mcreator/newdimensions/item/DirtToolsPickaxeItem.java
  net.mcreator.newdimensions.item.DirtToolsPickaxeItem
  net.mcreator.newdimensions.item.DirtToolsPickaxeItem$1
  net.mcreator.newdimensions.item.DirtToolsPickaxeItem$2
+net/mcreator/newdimensions/world/dimension/GlassDimensionDimension.java
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$1
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$CustomPortalBlock
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$CustomPortalSize
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$POIRegisterHandler
+ net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$TeleporterDimensionMod
 net/mcreator/newdimensions/item/Birch_WoodSwordItem.java
  net.mcreator.newdimensions.item.Birch_WoodSwordItem
  net.mcreator.newdimensions.item.Birch_WoodSwordItem$1
@@ -504,12 +513,3 @@ net/mcreator/newdimensions/world/biome/StoneDimesnionBiomeBiome.java
  net.mcreator.newdimensions.world.biome.StoneDimesnionBiomeBiome
  net.mcreator.newdimensions.world.biome.StoneDimesnionBiomeBiome$1
  net.mcreator.newdimensions.world.biome.StoneDimesnionBiomeBiome$BiomeRegisterHandler
-net/mcreator/newdimensions/item/GlassDimensionItem.java
- net.mcreator.newdimensions.item.GlassDimensionItem
-net/mcreator/newdimensions/world/dimension/GlassDimensionDimension.java
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$1
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$CustomPortalBlock
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$CustomPortalSize
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$POIRegisterHandler
- net.mcreator.newdimensions.world.dimension.GlassDimensionDimension$TeleporterDimensionMod

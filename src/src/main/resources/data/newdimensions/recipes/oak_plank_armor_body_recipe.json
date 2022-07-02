@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    },
+    "2": {
+      "item": "minecraft:oak_planks"
+    },
+    "3": {
+      "item": "minecraft:oak_planks"
+    },
+    "4": {
+      "item": "minecraft:oak_planks"
+    },
+    "5": {
+      "item": "minecraft:oak_planks"
+    },
+    "6": {
+      "item": "minecraft:oak_planks"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:oak_plank_armor_chestplate",
+    "count": 1
+  }
+}

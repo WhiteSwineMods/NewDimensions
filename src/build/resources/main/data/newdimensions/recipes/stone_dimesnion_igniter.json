@@ -1,0 +1,13 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:stone"
+    }
+  ],
+  "result": {
+    "item": "newdimensions:stone_dimension",
+    "count": 1
+  }
+}

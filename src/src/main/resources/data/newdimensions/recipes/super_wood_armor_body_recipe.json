@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "2": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "3": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "4": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "5": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "6": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "7": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "8": {
+      "item": "newdimensions:super_wood_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:super_wood_armor_chestplate",
+    "count": 1
+  }
+}

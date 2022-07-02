@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "warpped_wood_shovel",
+    "customModelName": "Normal",
+    "name": "Warpped_Wood Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 9,
+    "damageVsEntity": 1.0,
+    "usageCount": 137,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.WARPED_STEM"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

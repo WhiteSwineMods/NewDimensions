@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    },
+    "2": {
+      "item": "minecraft:acacia_planks"
+    },
+    "3": {
+      "item": "minecraft:acacia_planks"
+    },
+    "4": {
+      "item": "minecraft:acacia_planks"
+    },
+    "5": {
+      "item": "minecraft:acacia_planks"
+    },
+    "6": {
+      "item": "minecraft:acacia_planks"
+    },
+    "7": {
+      "item": "minecraft:acacia_planks"
+    },
+    "8": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:acsia_plank_armor_chestplate",
+    "count": 1
+  }
+}

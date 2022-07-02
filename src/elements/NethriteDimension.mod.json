@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:NethriteDimensionBiome"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Nethrite Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "texture": "netherite_dimension_ignighter",
+    "portalTexture": "netherite_dimension_look",
+    "enablePortal": true
+  }
+}

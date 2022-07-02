@@ -1,0 +1,29 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "1": {
+      "item": "minecraft:acacia_log"
+    },
+    "2": {
+      "item": "minecraft:acacia_log"
+    },
+    "3": {
+      "item": "minecraft:acacia_log"
+    },
+    "5": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:acsia_wood_armor_helmet",
+    "count": 1
+  }
+}

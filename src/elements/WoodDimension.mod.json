@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:WoodDimensionBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.LOG"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LEAVES"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.LOG"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Wood Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "texture": "wood_dimension_ignihter",
+    "portalTexture": "wood_dimension_look",
+    "enablePortal": true
+  }
+}

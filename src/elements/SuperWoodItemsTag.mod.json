@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SuperWoodWood"
+      },
+      {
+        "value": "CUSTOM:SuperWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "superwood_log",
+    "namespace": "forge"
+  }
+}

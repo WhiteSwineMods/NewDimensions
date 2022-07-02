@@ -1,0 +1,1416 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NewDimensions",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_dimensions"
+    },
+    {
+      "name": "DirtDimensionBiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_dimension_biome",
+      "path": "~/DirtDimension"
+    },
+    {
+      "name": "DirtDimension",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/DirtDimension"
+    },
+    {
+      "name": "DirtDimensionIgniter",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_dimension_igniter",
+      "path": "~/DirtDimension"
+    },
+    {
+      "name": "StoneDimesnionBiome",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dimesnion_biome",
+      "path": "~/StoneDimesnion"
+    },
+    {
+      "name": "StoneDimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/StoneDimesnion"
+    },
+    {
+      "name": "StoneDimesnionIgniter",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dimesnion_igniter",
+      "path": "~/StoneDimesnion"
+    },
+    {
+      "name": "DirtArmorArmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/DirtDimension/Armor"
+    },
+    {
+      "name": "DirtArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_armor_armor_helmet_recipe",
+      "path": "~/DirtDimension/Armor"
+    },
+    {
+      "name": "DirtArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_armor_armor_body_recipe",
+      "path": "~/DirtDimension/Armor"
+    },
+    {
+      "name": "DirtArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_armor_armor_leggings_recipe",
+      "path": "~/DirtDimension/Armor"
+    },
+    {
+      "name": "DirtArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_armor_armor_boots_recipe",
+      "path": "~/DirtDimension/Armor"
+    },
+    {
+      "name": "StoneArmorArmor",
+      "type": "armor",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/StoneDimesnion/Armor"
+    },
+    {
+      "name": "StoneArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor_armor_helmet_recipe",
+      "path": "~/StoneDimesnion/Armor"
+    },
+    {
+      "name": "StoneArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor_armor_body_recipe",
+      "path": "~/StoneDimesnion/Armor"
+    },
+    {
+      "name": "StoneArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor_armor_leggings_recipe",
+      "path": "~/StoneDimesnion/Armor"
+    },
+    {
+      "name": "StoneArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_armor_armor_boots_recipe",
+      "path": "~/StoneDimesnion/Armor"
+    },
+    {
+      "name": "DirtToolsPickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_pickaxe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_axe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsSword",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_sword",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_shovel",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_hoe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_pickaxe_recipe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_axe_recipe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_sword_recipe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_shovel_recipe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "DirtToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tools_hoe_recipe",
+      "path": "~/DirtDimension/Tools"
+    },
+    {
+      "name": "IronDimesnionBiome",
+      "type": "biome",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dimesnion_biome",
+      "path": "~/IronDimesnion"
+    },
+    {
+      "name": "IronDimension",
+      "type": "dimension",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/IronDimesnion"
+    },
+    {
+      "name": "IronDimesnionIgniter",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dimesnion_igniter",
+      "path": "~/IronDimesnion"
+    },
+    {
+      "name": "GoldDimesionBiome",
+      "type": "biome",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_dimesion_biome",
+      "path": "~/GoldDimension"
+    },
+    {
+      "name": "GoldDimension",
+      "type": "dimension",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/GoldDimension"
+    },
+    {
+      "name": "GoldDimensionIgnighter",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_dimension_ignighter",
+      "path": "~/GoldDimension"
+    },
+    {
+      "name": "DiamondDimensionBiome",
+      "type": "biome",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_dimension_biome",
+      "path": "~/DiamondDimension"
+    },
+    {
+      "name": "DiamondDimension",
+      "type": "dimension",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/DiamondDimension"
+    },
+    {
+      "name": "DiamondDimensionIgnighter",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_dimension_ignighter",
+      "path": "~/DiamondDimension"
+    },
+    {
+      "name": "NethriteDimensionBiome",
+      "type": "biome",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nethrite_dimension_biome",
+      "path": "~/NetheriteDimension"
+    },
+    {
+      "name": "NethriteDimension",
+      "type": "dimension",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nethrite_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/NetheriteDimension"
+    },
+    {
+      "name": "NethriteBlockCrafting",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nethrite_block_crafting",
+      "path": "~/NetheriteDimension"
+    },
+    {
+      "name": "NethriteIgnihter",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nethrite_ignihter",
+      "path": "~/NetheriteDimension"
+    },
+    {
+      "name": "WoodDimensionBiome",
+      "type": "biome",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_dimension_biome",
+      "path": "~/WoodDimension"
+    },
+    {
+      "name": "WoodDimension",
+      "type": "dimension",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/WoodDimension"
+    },
+    {
+      "name": "WoodDimensionIgngihter",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_dimension_igngihter",
+      "path": "~/WoodDimension"
+    },
+    {
+      "name": "Oak_WoodArmor",
+      "type": "armor",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Oak_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Oak_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Oak_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Oak_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Spruce_WoodArmor",
+      "type": "armor",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Spruce_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Spruce_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Spruce_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Spruce_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Birch_WoodArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Birch_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Birch_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Birch_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Birch_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Jungle_WoodArmor",
+      "type": "armor",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Jungle_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Jungle_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Jungle_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Jungle_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Acsia_WoodArmor",
+      "type": "armor",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Acsia_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Acsia_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Acsia_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Acsia_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Dark_Oak_WoodArmor",
+      "type": "armor",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_wood_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Dark_Oak_WoodArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_wood_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Dark_Oak_WoodArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_wood_armor_body_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Dark_Oak_WoodArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_wood_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Dark_Oak_WoodArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_wood_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor"
+    },
+    {
+      "name": "Oak_PlankArmor",
+      "type": "armor",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Oak_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Oak_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Oak_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Oak_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Spruce_PlankArmor",
+      "type": "armor",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Spruce_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Spruce_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Spruce_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Spruce_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Birch_PlanksArmor",
+      "type": "armor",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_planks_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Birch_PlanksArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_planks_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Birch_PlanksArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_planks_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Birch_PlanksArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_planks_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Birch_PlanksArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_planks_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Jungle_PlankArmor",
+      "type": "armor",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Jungle_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Jungle_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Jungle_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Jungle_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Acsia_PlankArmor",
+      "type": "armor",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Acsia_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Acsia_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Acsia_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Acsia_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acsia_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Dark_Oak_PlankArmor",
+      "type": "armor",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Dark_Oak_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Dark_Oak_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Dark_Oak_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Dark_Oak_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Crimsion_PlankArmor",
+      "type": "armor",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsion_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Crimsion_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsion_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Crimsion_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsion_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Crimsion_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsion_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Crimsion_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimsion_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Wrapped_PlankArmor",
+      "type": "armor",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrapped_plank_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Wrapped_PlankArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrapped_plank_armor_helmet_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Wrapped_PlankArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrapped_plank_armor_body_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Wrapped_PlankArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrapped_plank_armor_leggings_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    },
+    {
+      "name": "Wrapped_PlankArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrapped_plank_armor_boots_recipe",
+      "path": "~/WoodDimension/Armor/PlankAromor"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.newdimensions.stone_dimesnion_biome": "Stone Dimesnion Biome",
+      "item.newdimensions.diamond_dimension": "Diamond Dimension Portal Igniter",
+      "biome.newdimensions.nethrite_dimension_biome": "Nethrite Dimension Biome",
+      "item.newdimensions.dirt_armor_armor_helmet": "DirtArmor Helmet",
+      "item.newdimensions.spruce_plank_armor_boots": "Spruce_Plank Boots",
+      "item.newdimensions.jungle_plank_armor_leggings": "Jungle_Plank Leggings",
+      "item.newdimensions.oak_wood_armor_boots": "Oak_Wood Boots",
+      "item.newdimensions.spruce_plank_armor_helmet": "Spruce_Plank Helmet",
+      "item.newdimensions.spruce_plank_armor_chestplate": "Spruce_Plank Chestplate",
+      "item.newdimensions.dirt_tools_sword": "Dirt Sword",
+      "item.newdimensions.spruce_wood_armor_helmet": "Spruce_Wood Helmet",
+      "item.newdimensions.acsia_plank_armor_chestplate": "Acsia_Plank Chestplate",
+      "item.newdimensions.spruce_wood_armor_boots": "Spruce_Wood Boots",
+      "item.newdimensions.stone_armor_armor_helmet": "StoneArmor Helmet",
+      "item.newdimensions.dark_oak_wood_armor_boots": "Dark_Oak_Wood Boots",
+      "item.newdimensions.jungle_plank_armor_helmet": "Jungle_Plank Helmet",
+      "item.newdimensions.oak_plank_armor_helmet": "Oak_Plank Helmet",
+      "biome.newdimensions.gold_dimesion_biome": "Gold Dimesion Biome",
+      "item.newdimensions.iron_dimension": "Iron Dimension Portal Igniter",
+      "item.newdimensions.dirt_dimension": "Dirt Dimension Portal Igniter",
+      "item.newdimensions.jungle_plank_armor_boots": "Jungle_Plank Boots",
+      "item.newdimensions.spruce_plank_armor_leggings": "Spruce_Plank Leggings",
+      "item.newdimensions.dark_oak_plank_armor_helmet": "Dark_Oak_Plank Helmet",
+      "item.newdimensions.stone_dimension": "Stone Dimension Portal Igniter",
+      "item.newdimensions.dirt_armor_armor_boots": "DirtArmor Boots",
+      "item.newdimensions.wrapped_plank_armor_boots": "Wrapped_Plank Boots",
+      "item.newdimensions.stone_armor_armor_chestplate": "StoneArmor Chestplate",
+      "biome.newdimensions.wood_dimension_biome": "Wood Dimension Biome",
+      "item.newdimensions.wrapped_plank_armor_chestplate": "Wrapped_Plank Chestplate",
+      "item.newdimensions.dirt_tools_shovel": "Dirt Shovel",
+      "item.newdimensions.jungle_wood_armor_chestplate": "Jungle_Wood Chestplate",
+      "biome.newdimensions.dirt_dimension_biome": "Dirt Dimension Biome",
+      "item.newdimensions.dirt_tools_pickaxe": "Dirt Pickaxe",
+      "item.newdimensions.jungle_wood_armor_leggings": "Jungle_Wood Leggings",
+      "item.newdimensions.spruce_wood_armor_chestplate": "Spruce_Wood Chestplate",
+      "biome.newdimensions.iron_dimesnion_biome": "Iron Dimesnion Biome",
+      "item.newdimensions.crimsion_plank_armor_boots": "Crimsion_Plank Boots",
+      "item.newdimensions.crimsion_plank_armor_chestplate": "Crimsion_Plank Chestplate",
+      "item.newdimensions.birch_planks_armor_leggings": "Birch_Planks Leggings",
+      "item.newdimensions.oak_wood_armor_leggings": "Oak_Wood Leggings",
+      "item.newdimensions.birch_planks_armor_chestplate": "Birch_Planks Chestplate",
+      "item.newdimensions.acsia_plank_armor_boots": "Acsia_Plank Boots",
+      "item.newdimensions.jungle_wood_armor_boots": "Jungle_Wood Boots",
+      "item.newdimensions.birch_wood_armor_helmet": "Birch_Wood Helmet",
+      "item.newdimensions.acsia_wood_armor_helmet": "Acsia_Wood Helmet",
+      "item.newdimensions.wrapped_plank_armor_leggings": "Wrapped_Plank Leggings",
+      "item.newdimensions.crimsion_plank_armor_helmet": "Crimsion_Plank Helmet",
+      "item.newdimensions.jungle_plank_armor_chestplate": "Jungle_Plank Chestplate",
+      "item.newdimensions.acsia_plank_armor_leggings": "Acsia_Plank Leggings",
+      "item.newdimensions.dirt_tools_hoe": "Dirt Hoe",
+      "item.newdimensions.birch_wood_armor_leggings": "Birch_Wood Leggings",
+      "item.newdimensions.dark_oak_plank_armor_boots": "Dark_Oak_Plank Boots",
+      "item.newdimensions.nethrite_dimension": "Nethrite Dimension Portal Igniter",
+      "item.newdimensions.dark_oak_wood_armor_leggings": "Dark_Oak_Wood Leggings",
+      "item.newdimensions.birch_planks_armor_helmet": "Birch_Planks Helmet",
+      "item.newdimensions.oak_wood_armor_helmet": "Oak_Wood Helmet",
+      "biome.newdimensions.diamond_dimension_biome": "Diamond Dimension Biome",
+      "item.newdimensions.dirt_armor_armor_chestplate": "DirtArmor Chestplate",
+      "item.newdimensions.dirt_tools_axe": "Dirt Axe",
+      "item.newdimensions.oak_plank_armor_chestplate": "Oak_Plank Chestplate",
+      "item.newdimensions.dark_oak_plank_armor_chestplate": "Dark_Oak_Plank Chestplate",
+      "item.newdimensions.dark_oak_plank_armor_leggings": "Dark_Oak_Plank Leggings",
+      "item.newdimensions.birch_wood_armor_chestplate": "Birch_Wood Chestplate",
+      "item.newdimensions.jungle_wood_armor_helmet": "Jungle_Wood Helmet",
+      "item.newdimensions.spruce_wood_armor_leggings": "Spruce_Wood Leggings",
+      "item.newdimensions.oak_plank_armor_boots": "Oak_Plank Boots",
+      "item.newdimensions.stone_armor_armor_leggings": "StoneArmor Leggings",
+      "item.newdimensions.dirt_armor_armor_leggings": "DirtArmor Leggings",
+      "item.newdimensions.oak_wood_armor_chestplate": "Oak_Wood Chestplate",
+      "item.newdimensions.acsia_wood_armor_leggings": "Acsia_Wood Leggings",
+      "itemGroup.tabnew_dimensions": "New Dimensions",
+      "item.newdimensions.gold_dimension": "Gold Dimension Portal Igniter",
+      "item.newdimensions.birch_wood_armor_boots": "Birch_Wood Boots",
+      "item.newdimensions.acsia_wood_armor_boots": "Acsia_Wood Boots",
+      "item.newdimensions.wood_dimension": "Wood Dimension Portal Igniter",
+      "item.newdimensions.acsia_plank_armor_helmet": "Acsia_Plank Helmet",
+      "item.newdimensions.wrapped_plank_armor_helmet": "Wrapped_Plank Helmet",
+      "item.newdimensions.dark_oak_wood_armor_helmet": "Dark_Oak_Wood Helmet",
+      "item.newdimensions.acsia_wood_armor_chestplate": "Acsia_Wood Chestplate",
+      "item.newdimensions.oak_plank_armor_leggings": "Oak_Plank Leggings",
+      "item.newdimensions.crimsion_plank_armor_leggings": "Crimsion_Plank Leggings",
+      "item.newdimensions.stone_armor_armor_boots": "StoneArmor Boots",
+      "item.newdimensions.dark_oak_wood_armor_chestplate": "Dark_Oak_Wood Chestplate",
+      "item.newdimensions.birch_planks_armor_boots": "Birch_Planks Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "DirtDimension",
+        "children": [
+          {
+            "name": "Armor",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "StoneDimesnion",
+        "children": [
+          {
+            "name": "Armor",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "IronDimesnion",
+        "children": []
+      },
+      {
+        "name": "GoldDimension",
+        "children": []
+      },
+      {
+        "name": "DiamondDimension",
+        "children": []
+      },
+      {
+        "name": "NetheriteDimension",
+        "children": []
+      },
+      {
+        "name": "WoodDimension",
+        "children": [
+          {
+            "name": "Armor",
+            "children": [
+              {
+                "name": "PlankAromor",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "newdimensions",
+    "modName": "NewDimensions",
+    "version": "1.0.0",
+    "author": "jonahmakowski, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.newdimensions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "newdimensions:blocks/superwood_log_top",
+    "up": "newdimensions:blocks/superwood_log_top",
+    "north": "newdimensions:blocks/superwood_log_side",
+    "east": "newdimensions:blocks/superwood_log_side",
+    "south": "newdimensions:blocks/superwood_log_side",
+    "west": "newdimensions:blocks/superwood_log_side",
+    "particle": "newdimensions:blocks/superwood_log_top"
+  }
+}

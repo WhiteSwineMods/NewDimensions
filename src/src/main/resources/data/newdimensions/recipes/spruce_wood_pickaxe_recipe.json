@@ -1,0 +1,30 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "1": {
+      "item": "minecraft:spruce_log"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newdimensions:spruce_wood_pickaxe",
+    "count": 1
+  }
+}

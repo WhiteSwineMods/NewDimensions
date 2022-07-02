@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dark_oak_wood_shovel",
+    "customModelName": "Normal",
+    "name": "Dark_Oak_Wood Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 8,
+    "damageVsEntity": 1.0,
+    "usageCount": 122,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.LOG2#1"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "1": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newdimensions:super_wood_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "newdimensions:items/wrapped_plank_leggings"
+  }
+}

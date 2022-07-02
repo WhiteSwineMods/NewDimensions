@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "acasia_wood_hoe",
+    "customModelName": "Normal",
+    "name": "Acasia_Wood Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 8,
+    "damageVsEntity": 1.0,
+    "usageCount": 122,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.LOG2#0"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

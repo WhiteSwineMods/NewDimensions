@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:DiamondDimensionBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Diamond Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "texture": "diamond_dimension_ignighter",
+    "portalTexture": "diamond_dimension_look",
+    "enablePortal": true
+  }
+}

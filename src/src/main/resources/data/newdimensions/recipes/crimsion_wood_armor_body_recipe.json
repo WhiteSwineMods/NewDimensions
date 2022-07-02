@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_stem"
+    },
+    "2": {
+      "item": "minecraft:crimson_stem"
+    },
+    "3": {
+      "item": "minecraft:crimson_stem"
+    },
+    "4": {
+      "item": "minecraft:crimson_stem"
+    },
+    "5": {
+      "item": "minecraft:crimson_stem"
+    },
+    "6": {
+      "item": "minecraft:crimson_stem"
+    },
+    "7": {
+      "item": "minecraft:crimson_stem"
+    },
+    "8": {
+      "item": "minecraft:crimson_stem"
+    }
+  },
+  "result": {
+    "item": "newdimensions:crimsion_wood_armor_chestplate",
+    "count": 1
+  }
+}

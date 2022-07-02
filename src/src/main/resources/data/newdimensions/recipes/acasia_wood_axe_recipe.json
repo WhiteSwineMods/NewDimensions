@@ -1,0 +1,30 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "1": {
+      "item": "minecraft:acacia_log"
+    },
+    "2": {
+      "item": "minecraft:acacia_log"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newdimensions:acasia_wood_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_planks"
+    },
+    "2": {
+      "item": "minecraft:spruce_planks"
+    },
+    "3": {
+      "item": "minecraft:spruce_planks"
+    },
+    "4": {
+      "item": "minecraft:spruce_planks"
+    },
+    "5": {
+      "item": "minecraft:spruce_planks"
+    },
+    "6": {
+      "item": "minecraft:spruce_planks"
+    },
+    "7": {
+      "item": "minecraft:spruce_planks"
+    },
+    "8": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:spruce_plank_armor_chestplate",
+    "count": 1
+  }
+}

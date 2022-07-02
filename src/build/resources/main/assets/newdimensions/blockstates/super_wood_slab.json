@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newdimensions:block/super_wood_slab"
+    },
+    "type=top": {
+      "model": "newdimensions:block/super_wood_slab_top"
+    },
+    "type=double": {
+      "model": "newdimensions:block/super_wood_slab_full"
+    }
+  }
+}

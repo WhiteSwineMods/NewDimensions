@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "newdimensions:items/oak_wood_axe"
+  }
+}

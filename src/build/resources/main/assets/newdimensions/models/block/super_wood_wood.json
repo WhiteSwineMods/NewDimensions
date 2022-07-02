@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "newdimensions:blocks/superwood_log_side",
+    "particle": "newdimensions:blocks/superwood_log_side"
+  }
+}

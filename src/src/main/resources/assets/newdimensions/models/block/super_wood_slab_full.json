@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "newdimensions:blocks/superwood_planks",
+    "top": "newdimensions:blocks/superwood_planks",
+    "side": "newdimensions:blocks/superwood_planks"
+  }
+}

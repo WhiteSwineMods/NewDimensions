@@ -1,0 +1,30 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:jungle_log"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "newdimensions:super_wood_log"
+    },
+    "5": {
+      "item": "minecraft:birch_log"
+    },
+    "7": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:wood_dimension",
+    "count": 1
+  }
+}

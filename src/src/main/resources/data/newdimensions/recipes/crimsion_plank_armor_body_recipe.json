@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_planks"
+    },
+    "2": {
+      "item": "minecraft:crimson_planks"
+    },
+    "3": {
+      "item": "minecraft:crimson_planks"
+    },
+    "4": {
+      "item": "minecraft:crimson_planks"
+    },
+    "5": {
+      "item": "minecraft:crimson_planks"
+    },
+    "6": {
+      "item": "minecraft:crimson_planks"
+    },
+    "7": {
+      "item": "minecraft:crimson_planks"
+    },
+    "8": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:crimsion_plank_armor_chestplate",
+    "count": 1
+  }
+}

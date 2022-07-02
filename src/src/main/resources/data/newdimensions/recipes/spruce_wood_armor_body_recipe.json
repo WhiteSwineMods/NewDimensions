@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "3": {
+      "item": "minecraft:spruce_log"
+    },
+    "4": {
+      "item": "minecraft:spruce_log"
+    },
+    "5": {
+      "item": "minecraft:spruce_log"
+    },
+    "6": {
+      "item": "minecraft:spruce_log"
+    },
+    "7": {
+      "item": "minecraft:spruce_log"
+    },
+    "8": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:spruce_wood_armor_chestplate",
+    "count": 1
+  }
+}

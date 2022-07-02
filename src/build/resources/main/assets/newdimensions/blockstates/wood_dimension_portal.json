@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "newdimensions:block/wood_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "newdimensions:block/wood_dimension_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "wrapped_plank_head",
+    "enableBody": true,
+    "textureBody": "wrapped_plank_body",
+    "enableLeggings": true,
+    "textureLeggings": "wrapped_plank_leggings",
+    "enableBoots": true,
+    "textureBoots": "wrapped_plank_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "wrapped_plank",
+    "helmetName": "Wrapped_Plank Helmet",
+    "bodyName": "Wrapped_Plank Chestplate",
+    "leggingsName": "Wrapped_Plank Leggings",
+    "bootsName": "Wrapped_Plank Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 10,
+    "damageValueHelmet": 1,
+    "damageValueBody": 3,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 1,
+    "enchantability": 6,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.WARPED_PLANKS"
+      }
+    ]
+  }
+}

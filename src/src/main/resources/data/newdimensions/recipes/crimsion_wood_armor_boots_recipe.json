@@ -1,0 +1,26 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_stem"
+    },
+    "2": {
+      "item": "minecraft:crimson_stem"
+    },
+    "3": {
+      "item": "minecraft:crimson_stem"
+    },
+    "5": {
+      "item": "minecraft:crimson_stem"
+    }
+  },
+  "result": {
+    "item": "newdimensions:crimsion_wood_armor_boots",
+    "count": 1
+  }
+}

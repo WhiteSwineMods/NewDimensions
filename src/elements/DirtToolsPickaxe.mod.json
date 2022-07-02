@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dirttools_pickaxe",
+    "customModelName": "Normal",
+    "name": "Dirt Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 7,
+    "damageVsEntity": 1.0,
+    "usageCount": 95,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_planks"
+    },
+    "2": {
+      "item": "minecraft:spruce_planks"
+    },
+    "3": {
+      "item": "minecraft:spruce_planks"
+    },
+    "5": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:spruce_plank_armor_boots",
+    "count": 1
+  }
+}

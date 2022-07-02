@@ -1,0 +1,13 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:superwood_log"
+    }
+  ],
+  "result": {
+    "item": "newdimensions:super_wood_planks",
+    "count": 4
+  }
+}

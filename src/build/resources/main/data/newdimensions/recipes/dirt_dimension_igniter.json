@@ -1,0 +1,13 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "newdimensions:dirt_dimension",
+    "count": 1
+  }
+}

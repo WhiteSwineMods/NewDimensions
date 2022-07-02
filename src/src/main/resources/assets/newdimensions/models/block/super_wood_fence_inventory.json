@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "newdimensions:blocks/superwood_planks",
+    "particle": "newdimensions:blocks/superwood_planks"
+  }
+}

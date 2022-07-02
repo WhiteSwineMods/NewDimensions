@@ -1,0 +1,26 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "2": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "3": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "5": {
+      "item": "newdimensions:super_wood_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:super_wood_plank_armor_boots",
+    "count": 1
+  }
+}

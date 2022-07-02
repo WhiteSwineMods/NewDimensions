@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "oak_wood_head",
+    "enableBody": true,
+    "textureBody": "oak_wood_body",
+    "enableLeggings": true,
+    "textureLeggings": "oak_wood_leggings",
+    "enableBoots": true,
+    "textureBoots": "oak_wood_boots",
+    "creativeTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "armorTextureFile": "oak_wood",
+    "helmetName": "Oak_Wood Helmet",
+    "bodyName": "Oak_Wood Chestplate",
+    "leggingsName": "Oak_Wood Leggings",
+    "bootsName": "Oak_Wood Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 9,
+    "damageValueHelmet": 1,
+    "damageValueBody": 3,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 1,
+    "enchantability": 5,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.LOG#0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_log"
+    },
+    "1": {
+      "item": "minecraft:birch_log"
+    },
+    "2": {
+      "item": "minecraft:birch_log"
+    },
+    "3": {
+      "item": "minecraft:birch_log"
+    },
+    "5": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:birch_wood_armor_helmet",
+    "count": 1
+  }
+}

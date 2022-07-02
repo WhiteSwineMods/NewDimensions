@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "newdimensions:items/warpped_wood_shovel"
+  }
+}

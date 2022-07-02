@@ -1,0 +1,26 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_planks"
+    },
+    "2": {
+      "item": "minecraft:jungle_planks"
+    },
+    "3": {
+      "item": "minecraft:jungle_planks"
+    },
+    "5": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:jungle_plank_armor_boots",
+    "count": 1
+  }
+}

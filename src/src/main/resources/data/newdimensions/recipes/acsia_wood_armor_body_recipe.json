@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "2": {
+      "item": "minecraft:acacia_log"
+    },
+    "3": {
+      "item": "minecraft:acacia_log"
+    },
+    "4": {
+      "item": "minecraft:acacia_log"
+    },
+    "5": {
+      "item": "minecraft:acacia_log"
+    },
+    "6": {
+      "item": "minecraft:acacia_log"
+    },
+    "7": {
+      "item": "minecraft:acacia_log"
+    },
+    "8": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "newdimensions:acsia_wood_armor_chestplate",
+    "count": 1
+  }
+}

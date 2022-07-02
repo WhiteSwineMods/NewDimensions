@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.NETHERITE_INGOT"
+    },
+    "smithingReturnStack": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "name": "nethrite_block_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:GoldDimesionBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Gold Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:NewDimensions"
+    },
+    "texture": "gold_dimension_ignighter",
+    "portalTexture": "gold_dimension_look",
+    "enablePortal": true
+  }
+}

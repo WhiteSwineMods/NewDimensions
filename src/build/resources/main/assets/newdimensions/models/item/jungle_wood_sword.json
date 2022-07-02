@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "newdimensions:items/jungle_wood_sword"
+  }
+}

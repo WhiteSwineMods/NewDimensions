@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_planks"
+    },
+    "2": {
+      "item": "minecraft:birch_planks"
+    },
+    "3": {
+      "item": "minecraft:birch_planks"
+    },
+    "4": {
+      "item": "minecraft:birch_planks"
+    },
+    "5": {
+      "item": "minecraft:birch_planks"
+    },
+    "6": {
+      "item": "minecraft:birch_planks"
+    },
+    "7": {
+      "item": "minecraft:birch_planks"
+    },
+    "8": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:birch_planks_armor_chestplate",
+    "count": 1
+  }
+}

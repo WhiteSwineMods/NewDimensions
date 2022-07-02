@@ -1,0 +1,39 @@
+{
+  "group": "newdimensions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "2": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "3": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "4": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "5": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "6": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "7": {
+      "item": "newdimensions:super_wood_planks"
+    },
+    "8": {
+      "item": "newdimensions:super_wood_planks"
+    }
+  },
+  "result": {
+    "item": "newdimensions:super_wood_plank_armor_chestplate",
+    "count": 1
+  }
+}
